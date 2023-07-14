@@ -8,7 +8,7 @@ npm create vite@latest my-react-app -- --template react
   - removed boilerplate
   - provided some assets (css, data)
     - just so we can focus on important stuff
-  - removed <StrictMode>, so it's less logs
+  - removed StrictMode, so it's less logs
 
 ## Advanced Topics
 
